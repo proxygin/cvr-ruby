@@ -1,1 +1,1 @@
-cvr: bundle exec ruby cvr.rb -p $PORT
+web: bundle exec ruby cvr.rb -p $PORT
